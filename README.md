@@ -27,8 +27,8 @@
   <a href="https://linkedin.com/in/shihab-jamil" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="shihabjamil" /></a>
   <a href="https://github.com/shihab-jamil" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" alt="shihabjamil" /></a>
   <a href="mailto:shihab9720@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="shihabjamil" /></a>
-  <a href="https://github.com/shihab-jamil" align="left"> <img src="https://komarev.com/ghpvc/?username=shihab-jamil&label=Profile%20views&color=0e75b6&style=flat" alt="shihab-jamil" /> </a>
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shihab-jamil&label=Profile%20views&color=0e75b6&style=flat" alt="shihab-jamil" /> </p>
+
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
 
 <details>
