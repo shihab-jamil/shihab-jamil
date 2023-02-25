@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:** <p align="right"> <img src="https://komarev.com/ghpvc/?username=shihab-jamil&label=Profile%20views&color=0e75b6&style=flat" alt="shihab-jamil" /> </p>
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me: <img src="https://komarev.com/ghpvc/?username=shihab-jamil&label=Profile%20views&color=0e75b6&style=flat" alt="shihab-jamil" /> ** 
 
 - 🌱 I’m currently learning **Node.js, Express.js, MongoDB**
 - 👯 I’m looking to collaborate on **Laravel and VueJs Projects.**
