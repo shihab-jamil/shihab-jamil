@@ -2,7 +2,7 @@
 <h1 align="center">Hello 👋, I'm Shihab Jamil 🎯️🚀️</h1>
 <h3 align="center">Hey it's me Shihab Jamil.I have a keen interest Web Development and have a huge fascination with the inner workings of technology.</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif">
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif">
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
