@@ -37,7 +37,7 @@
     <br />
     <p align="center">
       <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=shihab-jamil&show_icons=true&theme=radical&count_private=true">
-      <img width="430" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shihab-jamil&layout=compact&theme=radical&langs_count=6" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shihab-jamil&layout=compact&theme=radical&langs_count=6" />
     </p>
   </details>
 
